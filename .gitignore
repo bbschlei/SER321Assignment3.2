@@ -1,0 +1,21 @@
+# Ignore Gradle cache and temporary files
+.gradle/
+
+# Ignore build artifacts
+build/
+
+# Ignore OS-specific files
+.DS_Store
+
+# Include necessary Gradle files
+!gradle/
+!gradlew
+!gradlew.bat
+!build.gradle
+!settings.gradle
+
+# Allow image files for the game
+!img/
+
+# Allow src files
+!src/
